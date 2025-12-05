@@ -2,6 +2,9 @@ package ejercicio6;
 
 public class Empleado {
 
+    //HOLA ESTOY MODIFICANDO EL ARCHIVO
+    //MODIFICACION
+
     private int numeroEmpleado;
     private static int numero=0;
 
