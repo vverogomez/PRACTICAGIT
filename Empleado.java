@@ -5,6 +5,8 @@ public class Empleado {
     //HOLA ESTOY MODIFICANDO EL ARCHIVO
     //MODIFICACION
 
+    //TERCERA MODIFICACION RESPECTO A GITIGNORE
+
     private int numeroEmpleado;
     private static int numero=0;
 
